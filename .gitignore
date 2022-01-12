@@ -1,0 +1,7 @@
+cmake-build-debug/
+cmake-build-release/
+coco_calib/
+testimgs/
+.idea/
+*.engine
+*.wts
